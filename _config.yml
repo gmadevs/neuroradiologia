@@ -9,4 +9,7 @@ url: https://gmadevs.github.io/neuroradiologia
 aux_links:
   Template Repository: https://github.com/gmadevs/neuroradiologia
 
+plugins:
+  - jekyll-last-modified-at
+
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
