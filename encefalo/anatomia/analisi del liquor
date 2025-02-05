@@ -1,0 +1,67 @@
+---
+title: Analisi del liquor
+layout: default
+nav_order: 1
+has_children: true
+parent: Anatomia e Neurologia generale
+---
+
+# Analisi del liquor
+
+La puntura lombare viene eseguita per misurare la pressione liquorale e ottenere un campione di liquor per analisi cellulari, citologiche, chimiche e batteriologiche. Può inoltre essere utilizzata per somministrare farmaci o mezzi di contrasto per mielografia ed esami con radioisotopi.
+
+Prima della procedura, è necessario verificare l'adeguatezza della funzione coagulativa del paziente. La puntura lombare è generalmente sicura in pazienti senza storia o segni evidenti di coagulopatia e in coloro che non assumono anticoagulanti. Si considerano accettabili un rapporto internazionale normalizzato (INR) inferiore o uguale a 1,4, una conta piastrinica superiore a 50.000/mm³ e l'uso di aspirina a dosaggi convenzionali.
+
+La pressione del liquor, misurata in posizione decubito laterale, deve essere inferiore a 200 mm H₂O. Alterazioni possono indicare ipertensione o ipotensione intracranica. Negli adulti sani, la pressione di apertura varia da 100 a 180 mm H₂O (8-14 mm Hg). Nei bambini, la pressione è compresa tra 30 e 60 mm H₂O. Negli adulti, una pressione di 50 mm H₂O o inferiore indica ipotensione intracranica.
+
+Il glucosio nel liquor dovrebbe essere circa il 60% di quello sierico. Livelli ridotti (ipoglicorrachia) si riscontrano in infezioni batteriche, fungine e tubercolari, e nelle metastasi leptomeningee. Il deficit di GLUT1 rappresenta una rara causa genetica di ipoglicorrachia.
+
+Le proteine nel liquor devono essere inferiori a 50 mg/dL. Valori elevati si osservano in stati infiammatori, infettivi o blocchi spinali (Sindrome di Froin). Nel sanguinamento ventricolare o subaracnoideo si verifica fuoriuscita sia di globuli rossi che di proteine sieriche. Con proteine sieriche normali, le proteine liquorali aumentano di circa 1 mg per ogni 1.000 globuli rossi. Questo rapporto vale anche per una puntura traumatica con fuoriuscita di sangue venoso nel sito di prelievo. Tuttavia, nell'emorragia subaracnoidea, l'effetto irritante dei globuli rossi emolizzati sulle leptomeningi può causare un aumento proteico molto maggiore. La frazione di albumina liquorale aumenta in diverse patologie del sistema nervoso centrale (SNC) e delle radici nervose craniospinali che compromettono la barriera emato-liquorale, ma senza correlazioni cliniche specifiche.
+
+I globuli bianchi normalmente sono 0-5/mm³, ad eccezione dei neonati dove il liquor presenta una cellularità più elevata. Un aumento della cellularità nel liquor dell'adulto può indicare infezioni, infiammazioni o neoplasie ematologiche. I neutrofili predominano nelle meningiti batteriche, mentre i linfociti nelle infezioni virali, fungine e tubercolari.
+
+I globuli rossi normalmente sono 0-5/mm³. Valori elevati suggeriscono emorragia subaracnoidea o puntura lombare traumatica. La xantocromia (colorazione giallastra) indica la presenza di globuli rossi degradati ed è tipica dell'emorragia subaracnoidea. Nella puntura traumatica, invece, i globuli rossi non hanno il tempo di degradarsi e mantengono il loro normale aspetto.
+
+Per distinguere tra queste due condizioni, si possono raccogliere due o tre campioni seriali di liquido. In caso di puntura traumatica, si osserva tipicamente un numero decrescente di globuli rossi nei tubi successivi. Inoltre, la pressione del liquor rimane normale e, se è presente una grande quantità di sangue, il liquido tende a coagulare o formare trame fibrinose.
+
+Queste alterazioni non si verificano nell'emorragia preesistente, poiché il sangue risulta già ampiamente diluito con il liquor e defibrinato dagli enzimi in esso presenti. Nell'emorragia subaracnoidea, i globuli rossi iniziano a emolizzare entro poche ore, conferendo una colorazione rosso-rosa (eritrocromia) al liquido surnatante. Se il campionamento avviene più di un giorno dopo l'emorragia, il fluido assume una colorazione giallo-bruna (xantocromia). In caso di ittero severo, sia la bilirubina coniugata che quella non coniugata diffondono nel liquor, con una concentrazione variabile tra un decimo e un centesimo di quella sierica.
+
+## Pattern di anomalie del liquor
+
+Proteine elevate senza o con poche cellule (Dissociazione albumino-citologica):
+Si riscontra tipicamente nella sindrome di Guillain-Barré e può presentarsi anche in CIDP, sindromi paraneoplastiche, ADEM, mielite trasversa e vasculiti del SNC. Questo pattern caratterizza le patologie che coinvolgono le radici nervose nello spazio subaracnoideo.
+
+WBC e proteine elevate con glucosio normale:
+Suggerisce un'infezione virale.
+
+WBC e proteine elevate con glucosio basso:
+Indica un'infezione batterica, fungina o tubercolare. Le infezioni batteriche presentano le alterazioni più marcate, con predominanza di neutrofili, mentre nelle altre prevalgono i linfociti.
+
+Puntura lombare traumatica:
+Determina un aumento di proteine e WBC per contaminazione ematica (1 mg/dL di proteine e 1 WBC per ogni 1000 globuli rossi/mm³).
+
+Test aggiuntivi:
+
+- Bande oligoclonali: marker di infiammazione del SNC
+- Anticorpi paraneoplastici: più sensibili nel liquor che nel siero
+- Proteina 14-3-3: sostituita dal RT-QUIC per la diagnosi di CJD
+- Rapporto Aβ-42/tau: biomarcatore per malattia di Alzheimer
+
+| CONDIZIONE | CELLULE | PROTEINE | GLUCOSIO | ALTRE CARATTERISTICHE |
+| --- | --- | --- | --- | --- |
+| Infezione batterica | GB > 50/mm3, spesso molto aumentati | 100–250 mg/dL | 20–50 mg/dl; di solito inferiore alla metà del glucosio ematico | Colorazione di Gram mostra organismi; pressione aumentata |
+| Infezione virale, fungina, spirochetica | GB 10–100/mm3 | 50–200 mg/dL | Normale o lievemente ridotto | Necessarie tecniche di coltura speciali; pressione normale o lievemente aumentata |
+| Infezione tubercolare | GB > 25/mm3 | 100–1,000 mg/dL | <50, spesso marcatamente ridotto | Possono essere necessarie tecniche di coltura speciali e PCR per rilevare gli organismi |
+| Emorragia subaracnoidea | GR > 500/mm3; lieve aumento GB | 60–150 mg/dL | Normale; lievemente ridotto successivamente | Da distinguere da puntura lombare traumatica per presenza di xantocromia nel campione centrifugato; pressione molto aumentata |
+| Emorragia cerebrale, trauma | GR 50–200/mm3; più alto se rottura ventricolare di sangue | 50–150 mg/dL | Normale | Pressione può essere elevata |
+| Ictus ischemico | Normale o pochi GB | Normale | Normale | Pressione normale salvo edema cerebrale |
+| Sclerosi multipla | Normale o pochi GB | Normale o lievemente aumentate | Normale | Aumento frazione IgG e bande oligoclonali |
+| Neoplasia meningea | GB 10–100/mm3 | Solitamente elevate | Normale o ridotto | Cellule neoplastiche nel liquor; elevazione di alcuni marcatori proteici (es. β2-mi |
+
+## Imaging
+
+Poiché è rischioso effettuare una puntura lombare in caso di ipertensione endocranica per il rischio di erniazione tonsillare, è necessario indicare nel referto radiologico la presenza di lesioni espansive intracraniche che determinano effetto massa o la presenza di quadri che possono causare impegno delle tonsille a livello del forame magno (ad esempio, deformazione di Chiari).
+
+## Complicanze
+
+La puntura lombare presenta rare complicanze gravi. La più frequente è la cefalea post-puntura, che si manifesta in circa un terzo dei pazienti, raramente in forma severa. Questo mal di testa compare in posizione eretta ed è causato dalla riduzione della pressione liquorale dovuta alla perdita di fluido dal sito di puntura. L'utilizzo di aghi atraumatici può ridurne l'incidenza del 50%. Altre complicanze rare includono: paralisi del VI nervo cranico, perdita dell'udito, intorpidimento facciale, sanguinamento (nei pazienti con coagulopatia), meningite e infezioni discali. La sindrome da ipotensione liquorale può essere risolta con blood patch epidurale.
