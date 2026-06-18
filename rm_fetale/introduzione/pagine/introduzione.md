@@ -38,7 +38,55 @@ La RM fetale non è uno strumento di screening generale e deve essere utilizzata
 - Valutazione quando l'oligoidramnios o l'anidramnios impediscono la valutazione ecografica
 - Pianificazione di potenziali interventi chirurgici fetali[5]
 
-La RM fetale può essere eseguita con successo dalla 18a settimana di gestazione in poi, e anche prima a seconda dell'indicazione.[6]
+La RM fetale è tecnicamente eseguibile dalla 18a settimana di gestazione in poi, e anche prima a seconda dell'indicazione.[6] Il timing ottimale per la valutazione delle anomalie del sistema nervoso centrale è tuttavia dopo le **22–24 settimane**, quando le tappe dello sviluppo corticale e della sostanza bianca diventano sufficientemente evidenti da essere rilevate.[12]
+
+### Pazienti ad alto rischio con ecografia normale
+
+La RM fetale non è uno strumento di screening generale, ma è indicata in situazioni selezionate ad alto rischio anche in assenza di anomalie ecografiche evidenti.[5] I principali fattori di rischio che giustificano l'esecuzione sono:
+
+**Storia familiare di anomalie cerebrali**
+
+- Precedente feto o bambino con anomalie cerebrali dello sviluppo, con rischio di ricorrenza valutato da un genetista clinico[7]
+- Storia familiare di condizioni specifiche come sclerosi tuberosa, disgenesia del corpo calloso o lissencefalia[5]
+
+**Condizioni della gravidanza attuale**
+
+- Infezioni fetali note (rischio di lesioni cerebrali acquisite)[8]
+- Emorragia o ischemia fetale documentata[8]
+- Oligoidramnios o anidramnios che impediscono una valutazione ecografica adeguata[5]
+
+**Reperti ecografici borderline o non specifici**
+
+- Ventriculomegalia lieve o moderata (anche se apparentemente isolata all'ecografia)[8][9][10]
+- Anomalie del corpo calloso o assenza del cavo del setto pellucido[11]
+- Anomalie della fossa posteriore o del cervelletto[11]
+- Reperti non specifici che aumentano il rischio senza essere chiaramente patologici[7]
+
+#### Valore aggiunto della RM rispetto alla neurosonografia dedicata
+
+> **Nota — Neurosonografia dedicata:** si intende la valutazione dettagliata del cervello fetale eseguita da operatori esperti secondo le linee guida ISUOG, distinta dall'ecografia ostetrica di routine.
+
+Anche quando viene eseguita una neurosonografia dedicata, la RM rileva anomalie aggiuntive nel **5,0–5,4%** dei feti con ventriculomegalia apparentemente isolata.[9][10] Questo tasso sale al **16,8%** quando la valutazione ecografica di riferimento è solo una ecografia standard.[9]
+
+Le anomalie più frequentemente rilevate dalla RM ma non dall'ecografia includono:[10]
+
+- Emorragie intracraniche sopratentoriali (26,7%)
+- Polimicrogiria (20,0%)
+- Lissencefalia (13,3%)
+- Malformazioni corticali e anomalie della migrazione neuronale[8]
+- Ipoplasia o disgenesia del corpo calloso[8][10]
+
+#### Fattori predittivi di reperti positivi alla RM
+
+Uno studio multicentrico internazionale ha identificato i seguenti fattori associati indipendentemente a una maggiore probabilità di rilevare anomalie alla RM:[10]
+
+- **BMI materno più basso** (OR aggiustato 0,85)
+- **Ventriculomegalia moderata** (12–15 mm) rispetto a lieve (OR aggiustato 5,8)
+- **Età gestazionale ≥24 settimane** al momento della RM (OR aggiustato 4,1)
+
+#### Rassicurazione nei pazienti a basso rischio
+
+In gravidanze a basso rischio con ecografia normale, il valore predittivo negativo dell'ecografia è del **99,5%**, con solo l'1% di anomalie cerebrali rilevate alla RM non riconosciute all'ecografia.[13] La RM non è pertanto indicata come screening di routine in assenza di fattori di rischio.
 
 ## Riferimenti
 
@@ -48,3 +96,10 @@ La RM fetale può essere eseguita con successo dalla 18a settimana di gestazione
 4. ACR Committee on MR Safety. American College of Radiology Manual on MR Safety: 2024 Update and Revisions. American College of Radiology.
 5. Reddy UM, Abuhamad AZ, Levine D, Saade GR, Fetal Imaging Workshop Invited Participants. Fetal Imaging: Executive Summary of a Joint Workshop. *Obstetrics and Gynecology*. 2014;123(5):1070-1082. doi:10.1097/AOG.0000000000000245.
 6. Aertsen M, Diogo MC, Dymarkowski S, Deprest J, Prayer D. Fetal MRI for dummies: what the fetal medicine specialist should know about acquisitions and sequences. *Prenatal Diagnosis*. 2020;40(1):6-17. doi:10.1002/pd.5579.
+7. Griffiths PD, Mooney C, Bradburn M, Jarvis D. Should We Perform in Utero MRI on a Fetus at Increased Risk of a Brain Abnormality if Ultrasonography Is Normal or Shows Non-Specific Findings? *Clinical Radiology*. 2018;73(2):123-134. doi:10.1016/j.crad.2017.09.007.
+8. Fox NS, Monteagudo A, Kuller JA, Craigo S, Norton ME. Mild Fetal Ventriculomegaly: Diagnosis, Evaluation, and Management. *American Journal of Obstetrics and Gynecology*. 2018;219(1):B2-B9. doi:10.1016/j.ajog.2018.04.039.
+9. Di Mascio D, Sileo FG, Khalil A, et al. Role of Magnetic Resonance Imaging in Fetuses With Mild or Moderate Ventriculomegaly in the Era of Fetal Neurosonography: Systematic Review and Meta-Analysis. *Ultrasound in Obstetrics & Gynecology*. 2019;54(2):164-171. doi:10.1002/uog.20197.
+10. Role of Prenatal Magnetic Resonance Imaging in Fetuses With Isolated Mild or Moderate Ventriculomegaly in the Era of Neurosonography: International Multicenter Study. *Ultrasound in Obstetrics & Gynecology*. 2020;56(3):340-347. doi:10.1002/uog.21974.
+11. Expert Panel on GYN and OB Imaging, Sussman BL, Chopra P, et al. ACR Appropriateness Criteria® Second and Third Trimester Screening for Fetal Anomaly. *Journal of the American College of Radiology*. 2021;18(5S):S189-S198. doi:10.1016/j.jacr.2021.02.017.
+12. Powers AM, White C, Neuberger I, et al. Fetal MRI Neuroradiology: Indications. *Clinics in Perinatology*. 2022;49(3):573-586. doi:10.1016/j.clp.2022.05.001.
+13. Griffiths PD, Bradburn M, Mandefield L, Mooney C, Jarvis D. The Rate of Brain Abnormalities on in Utero MRI Studies in Fetuses With Normal Ultrasound Examinations of the Brain and Calculation of Indicators of Diagnostic Performance. *Clinical Radiology*. 2019;74(7):527-533. doi:10.1016/j.crad.2019.03.010.
