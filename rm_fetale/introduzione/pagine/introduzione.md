@@ -118,9 +118,62 @@ La tempistica della RM fetale va letta in relazione al quadro normativo italiano
 
 Non esiste un limite gestazionale superiore specifico per le interruzioni terapeutiche in presenza di grave rischio materno o di gravi anomalie fetali.
 
+### Interpretazione delle "gravi anomalie fetali"
+
+La Legge 194/1978 non fornisce un elenco specifico di quali anomalie siano considerate "gravi". Nella pratica clinica italiana, questa valutazione viene effettuata caso per caso da un team di specialisti, tenendo conto della natura dell'anomalia, della sua prognosi e delle implicazioni per la qualità di vita del nascituro.[15]
+
+### Limiti gestazionali nella pratica clinica
+
+Sebbene la Legge 194/1978 non stabilisca un limite gestazionale superiore per le interruzioni terapeutiche, l'Art. 7 prevede che, quando sussiste la possibilità di vita autonoma del feto, il medico debba adottare ogni misura idonea a salvaguardarne la vita.[14] Nella pratica clinica italiana, questo principio assume rilevanza concreta oltre la soglia convenzionale di viabilità fetale, generalmente collocata tra le **22 e le 24 settimane** di gestazione, con variabilità in base alle condizioni cliniche e alle risorse del centro. Ne consegue che, in questa fascia gestazionale, l'approccio all'interruzione muta significativamente, richiedendo un più stretto coordinamento tra ostetrici, neonatologi e consulenti legali.
+
+### Procedura di certificazione
+
+Il processo di accertamento e certificazione comprende:[16]
+
+**Valutazione diagnostica completa**:
+
+- Conferma dell'anomalia fetale mediante ecografia di secondo livello
+- Eventuale RM fetale per approfondimento diagnostico
+- Cariotipo fetale quando indicato
+- Consulenza genetica quando appropriata
+
+**Certificazione medica**:
+
+- Documentazione che attesti la presenza di gravi anomalie fetali o grave rischio materno
+- La certificazione è effettuata da medici specialisti
+- In molti centri, la valutazione coinvolge un team multidisciplinare
+
+**Counseling**:
+
+- Informazione completa alla coppia sulla diagnosi, prognosi e opzioni disponibili
+- Supporto psicologico quando necessario
+
+### Problematiche pratiche e criticità
+
+**Obiezione di coscienza**: L'elevato tasso di obiezione di coscienza tra i ginecologi italiani può creare difficoltà nell'accesso all'interruzione terapeutica, anche quando legalmente consentita.[17]
+
+**Variabilità regionale**: Esistono significative differenze tra le regioni italiane nell'accesso ai servizi di diagnosi prenatale e interruzione terapeutica, con particolare carenza di risorse nelle regioni centro-meridionali.[15]
+
+**Tempistiche diagnostiche**: Molte anomalie fetali vengono diagnosticate dopo le 20 settimane — quando la RM fetale è più informativa — ben oltre il limite delle 12+6 settimane per l'IVG su richiesta. Questo crea una sfida clinica rilevante per la gestione delle anomalie diagnosticate tardivamente.
+
+### Caso giuridico rilevante
+
+Una sentenza della Corte di Cassazione italiana del 2021 ha stabilito un precedente significativo: un medico è stato condannato al risarcimento danni per non aver informato correttamente una paziente alla 22ª settimana sui rischi di infezione da citomegalovirus (CMV) per il feto. L'opzione dell'interruzione non fu proposta in assenza di malformazioni evidenti né di grave rischio per la vita materna, come richiesto dalla legge. Il neonato presentò gravi lesioni cerebrali. Questa sentenza potrebbe estendere i requisiti informativi per le interruzioni tardive, includendo situazioni di grave rischio fetale anche in assenza di malformazioni strutturali al momento della richiesta.[18]
+
+### Confronto internazionale
+
+Per contesto, altri paesi europei adottano approcci differenti:[16]
+
+- **Francia**: Nessun limite gestazionale per condizioni fetali gravi incurabili
+- **Paesi Bassi**: Possibile dopo 24 settimane per condizioni che comportano morte neonatale precoce o gravi deficit irreparabili
+- **Belgio**: Nessun limite gestazionale; dopo 14 settimane l'anomalia deve determinare un handicap sostanziale, valutato da un panel multidisciplinare
+- **Germania**: Tecnicamente possibile fino al termine, ma molti centri non eseguono interruzioni dopo 24 settimane
+
+L'Italia si colloca tra i paesi che consentono l'interruzione per gravi anomalie fetali senza un limite gestazionale rigido, ma con requisiti di gravità e con l'obbligo di salvaguardare la vita fetale quando tecnicamente possibile oltre la soglia di viabilità.[14]
+
 ### Implicazione clinica per la RM fetale
 
-Questa tempistica crea una sfida clinica rilevante: la RM fetale è più informativa dopo le 20 settimane, ben oltre il limite delle 12+6 settimane per l'IVG su richiesta. Per le anomalie gravi diagnosticate dopo questo periodo, l'interruzione richiede la certificazione di gravi anomalie fetali secondo i criteri della Legge 194/1978.
+La RM fetale è più informativa dopo le 20 settimane, ben oltre il limite delle 12+6 settimane per l'IVG su richiesta. Per le anomalie gravi diagnosticate dopo questo periodo, l'interruzione richiede la certificazione di gravi anomalie fetali secondo i criteri della Legge 194/1978 e il coinvolgimento di un team multidisciplinare.
 
 ## Riferimenti
 
@@ -138,3 +191,7 @@ Questa tempistica crea una sfida clinica rilevante: la RM fetale è più informa
 12. Powers AM, White C, Neuberger I, et al. Fetal MRI Neuroradiology: Indications. *Clinics in Perinatology*. 2022;49(3):573-586. doi:10.1016/j.clp.2022.05.001.
 13. Griffiths PD, Bradburn M, Mandefield L, Mooney C, Jarvis D. The Rate of Brain Abnormalities on in Utero MRI Studies in Fetuses With Normal Ultrasound Examinations of the Brain and Calculation of Indicators of Diagnostic Performance. *Clinical Radiology*. 2019;74(7):527-533. doi:10.1016/j.crad.2019.03.010.
 14. Legge 22 maggio 1978, n. 194. *Norme per la tutela sociale della maternità e sull'interruzione volontaria della gravidanza.* Gazzetta Ufficiale della Repubblica Italiana n. 140, 22 maggio 1978. Disponibile su: https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;194
+15. Clerici G, Donti E, Zacutti A, Di Renzo GC. Prenatal Diagnosis in Italy. *European Journal of Human Genetics*. 1997;5 Suppl 1:42-7.
+16. Bronsgeest K, Lust EER, Henneman L, et al. Current Practice of First-Trimester Ultrasound Screening for Structural Fetal Anomalies in Developed Countries. *Prenatal Diagnosis*. 2023;43(7):873-880. doi:10.1002/pd.6389.
+17. Caruso E. The Hyper-Regulation of Abortion Care in Italy. *International Journal of Gynaecology and Obstetrics*. 2023;163(3):1036-1042. doi:10.1002/ijgo.15150.
+18. Gulino M, Miele MT, Marcuccilli F, Cammarano A, Montanari Vergallo G. Late Termination of Pregnancy in Case of Congenital CMV Infection: Ethics, Medicine and Law. *The Journal of Maternal-Fetal & Neonatal Medicine*. 2022;35(25):9786-9791. doi:10.1080/14767058.2022.2053104.
