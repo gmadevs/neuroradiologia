@@ -38,7 +38,21 @@ La RM fetale non è uno strumento di screening generale e deve essere utilizzata
 - Valutazione quando l'oligoidramnios o l'anidramnios impediscono la valutazione ecografica
 - Pianificazione di potenziali interventi chirurgici fetali[5]
 
-La RM fetale è tecnicamente eseguibile dalla 18a settimana di gestazione in poi, e anche prima a seconda dell'indicazione.[6] Il timing ottimale per la valutazione delle anomalie del sistema nervoso centrale è tuttavia dopo le **22–24 settimane**, quando le tappe dello sviluppo corticale e della sostanza bianca diventano sufficientemente evidenti da essere rilevate.[12]
+### Timing per indicazione
+
+**Prima delle 18 settimane**: La RM fetale ha benefici generalmente limitati a causa delle piccole dimensioni fetali e degli artefatti da movimento. Tuttavia, studi recenti dimostrano che la RM a 3 Tesla può essere eseguita con successo già a partire dalle 11–12 settimane in casi selezionati di anomalie complesse, fornendo immagini diagnostiche nonostante le dimensioni ridotte.[6][13]
+
+**20–22 settimane**: Periodo ottimale per la maggior parte delle indicazioni, in particolare per:
+
+- Anomalie del sistema nervoso centrale (ventriculomegalia, agenesia del corpo calloso, anomalie della fossa posteriore)
+- Masse del collo con potenziale compromissione delle vie aeree
+- Valutazione di anomalie quando l'ecografia fornisce informazioni incomplete
+
+**Terzo trimestre**: Momento ottimale per:
+
+- Valutazione dello sviluppo corticale cerebrale (con finestra ottimale dopo le **22–24 settimane**, quando le tappe dello sviluppo corticale e della sostanza bianca diventano sufficientemente evidenti)[12]
+- Valutazione della compromissione delle vie aeree in masse del collo
+- Pianificazione del parto o interventi immediati post-natali
 
 ### Pazienti ad alto rischio con ecografia normale
 
@@ -88,6 +102,26 @@ Uno studio multicentrico internazionale ha identificato i seguenti fattori assoc
 
 In gravidanze a basso rischio con ecografia normale, il valore predittivo negativo dell'ecografia è del **99,5%**, con solo l'1% di anomalie cerebrali rilevate alla RM non riconosciute all'ecografia.[13] La RM non è pertanto indicata come screening di routine in assenza di fattori di rischio.
 
+## Contesto normativo: interruzione di gravidanza in Italia
+
+La tempistica della RM fetale va letta in relazione al quadro normativo italiano sull'interruzione volontaria di gravidanza (IVG), che influenza la rilevanza clinica della diagnosi prenatale.
+
+### Limiti temporali secondo la Legge 194/1978
+
+**Entro 90 giorni dal concepimento (≤ 12+6 settimane di età gestazionale)**: L'IVG è consentita su richiesta della donna per motivi personali o sociali.
+
+**Oltre i 90 giorni**: L'interruzione è possibile esclusivamente quando:[14]
+
+- La gravidanza o il parto comportano un grave pericolo per la vita della donna
+- Sono accertati processi patologici che determinano un grave pericolo per la salute fisica o psichica della donna
+- Sono accertate gravi anomalie o malformazioni fetali
+
+Non esiste un limite gestazionale superiore specifico per le interruzioni terapeutiche in presenza di grave rischio materno o di gravi anomalie fetali.
+
+### Implicazione clinica per la RM fetale
+
+Questa tempistica crea una sfida clinica rilevante: la RM fetale è più informativa dopo le 20 settimane, ben oltre il limite delle 12+6 settimane per l'IVG su richiesta. Per le anomalie gravi diagnosticate dopo questo periodo, l'interruzione richiede la certificazione di gravi anomalie fetali secondo i criteri della Legge 194/1978.
+
 ## Riferimenti
 
 1. Committee Opinion No. 723: Guidelines for Diagnostic Imaging During Pregnancy and Lactation. Committee on Obstetric Practice. *Obstetrics and Gynecology*. 2017;130(4):e210-e216. doi:10.1097/AOG.0000000000002355.
@@ -103,3 +137,4 @@ In gravidanze a basso rischio con ecografia normale, il valore predittivo negati
 11. Expert Panel on GYN and OB Imaging, Sussman BL, Chopra P, et al. ACR Appropriateness Criteria® Second and Third Trimester Screening for Fetal Anomaly. *Journal of the American College of Radiology*. 2021;18(5S):S189-S198. doi:10.1016/j.jacr.2021.02.017.
 12. Powers AM, White C, Neuberger I, et al. Fetal MRI Neuroradiology: Indications. *Clinics in Perinatology*. 2022;49(3):573-586. doi:10.1016/j.clp.2022.05.001.
 13. Griffiths PD, Bradburn M, Mandefield L, Mooney C, Jarvis D. The Rate of Brain Abnormalities on in Utero MRI Studies in Fetuses With Normal Ultrasound Examinations of the Brain and Calculation of Indicators of Diagnostic Performance. *Clinical Radiology*. 2019;74(7):527-533. doi:10.1016/j.crad.2019.03.010.
+14. Legge 22 maggio 1978, n. 194. *Norme per la tutela sociale della maternità e sull'interruzione volontaria della gravidanza.* Gazzetta Ufficiale della Repubblica Italiana n. 140, 22 maggio 1978. Disponibile su: https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;194
