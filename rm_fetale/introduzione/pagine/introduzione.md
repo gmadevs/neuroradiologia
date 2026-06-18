@@ -38,7 +38,21 @@ La RM fetale non è uno strumento di screening generale e deve essere utilizzata
 - Valutazione quando l'oligoidramnios o l'anidramnios impediscono la valutazione ecografica
 - Pianificazione di potenziali interventi chirurgici fetali[5]
 
-La RM fetale è tecnicamente eseguibile dalla 18a settimana di gestazione in poi, e anche prima a seconda dell'indicazione.[6] Il timing ottimale per la valutazione delle anomalie del sistema nervoso centrale è tuttavia dopo le **22–24 settimane**, quando le tappe dello sviluppo corticale e della sostanza bianca diventano sufficientemente evidenti da essere rilevate.[12]
+### Timing per indicazione
+
+**Prima delle 18 settimane**: La RM fetale ha benefici generalmente limitati a causa delle piccole dimensioni fetali e degli artefatti da movimento. Tuttavia, studi recenti dimostrano che la RM a 3 Tesla può essere eseguita con successo già a partire dalle 11–12 settimane in casi selezionati di anomalie complesse, fornendo immagini diagnostiche nonostante le dimensioni ridotte.[6][13]
+
+**20–22 settimane**: Periodo ottimale per la maggior parte delle indicazioni, in particolare per:
+
+- Anomalie del sistema nervoso centrale (ventriculomegalia, agenesia del corpo calloso, anomalie della fossa posteriore)
+- Masse del collo con potenziale compromissione delle vie aeree
+- Valutazione di anomalie quando l'ecografia fornisce informazioni incomplete
+
+**Terzo trimestre**: Momento ottimale per:
+
+- Valutazione dello sviluppo corticale cerebrale (con finestra ottimale dopo le **22–24 settimane**, quando le tappe dello sviluppo corticale e della sostanza bianca diventano sufficientemente evidenti)[12]
+- Valutazione della compromissione delle vie aeree in masse del collo
+- Pianificazione del parto o interventi immediati post-natali
 
 ### Pazienti ad alto rischio con ecografia normale
 
@@ -88,6 +102,79 @@ Uno studio multicentrico internazionale ha identificato i seguenti fattori assoc
 
 In gravidanze a basso rischio con ecografia normale, il valore predittivo negativo dell'ecografia è del **99,5%**, con solo l'1% di anomalie cerebrali rilevate alla RM non riconosciute all'ecografia.[13] La RM non è pertanto indicata come screening di routine in assenza di fattori di rischio.
 
+## Contesto normativo: interruzione di gravidanza in Italia
+
+La tempistica della RM fetale va letta in relazione al quadro normativo italiano sull'interruzione volontaria di gravidanza (IVG), che influenza la rilevanza clinica della diagnosi prenatale.
+
+### Limiti temporali secondo la Legge 194/1978
+
+**Entro 90 giorni dal concepimento (≤ 12+6 settimane di età gestazionale)**: L'IVG è consentita su richiesta della donna per motivi personali o sociali.
+
+**Oltre i 90 giorni**: L'interruzione è possibile esclusivamente quando:[14]
+
+- La gravidanza o il parto comportano un grave pericolo per la vita della donna
+- Sono accertati processi patologici che determinano un grave pericolo per la salute fisica o psichica della donna
+- Sono accertate gravi anomalie o malformazioni fetali
+
+Non esiste un limite gestazionale superiore specifico per le interruzioni terapeutiche in presenza di grave rischio materno o di gravi anomalie fetali.
+
+### Interpretazione delle "gravi anomalie fetali"
+
+La Legge 194/1978 non fornisce un elenco specifico di quali anomalie siano considerate "gravi". Nella pratica clinica italiana, questa valutazione viene effettuata caso per caso da un team di specialisti, tenendo conto della natura dell'anomalia, della sua prognosi e delle implicazioni per la qualità di vita del nascituro.[15]
+
+### Limiti gestazionali nella pratica clinica
+
+Sebbene la Legge 194/1978 non stabilisca un limite gestazionale superiore per le interruzioni terapeutiche, l'Art. 7 prevede che, quando sussiste la possibilità di vita autonoma del feto, il medico debba adottare ogni misura idonea a salvaguardarne la vita.[14] Nella pratica clinica italiana, questo principio assume rilevanza concreta oltre la soglia convenzionale di viabilità fetale, generalmente collocata tra le **22 e le 24 settimane** di gestazione, con variabilità in base alle condizioni cliniche e alle risorse del centro. Ne consegue che, in questa fascia gestazionale, l'approccio all'interruzione muta significativamente, richiedendo un più stretto coordinamento tra ostetrici, neonatologi e consulenti legali.
+
+### Procedura di certificazione
+
+Il processo di accertamento e certificazione comprende:[16]
+
+**Valutazione diagnostica completa**:
+
+- Conferma dell'anomalia fetale mediante ecografia di secondo livello
+- Eventuale RM fetale per approfondimento diagnostico
+- Cariotipo fetale quando indicato
+- Consulenza genetica quando appropriata
+
+**Certificazione medica**:
+
+- Documentazione che attesti la presenza di gravi anomalie fetali o grave rischio materno
+- La certificazione è effettuata da medici specialisti
+- In molti centri, la valutazione coinvolge un team multidisciplinare
+
+**Counseling**:
+
+- Informazione completa alla coppia sulla diagnosi, prognosi e opzioni disponibili
+- Supporto psicologico quando necessario
+
+### Problematiche pratiche e criticità
+
+**Obiezione di coscienza**: L'elevato tasso di obiezione di coscienza tra i ginecologi italiani può creare difficoltà nell'accesso all'interruzione terapeutica, anche quando legalmente consentita.[17]
+
+**Variabilità regionale**: Esistono significative differenze tra le regioni italiane nell'accesso ai servizi di diagnosi prenatale e interruzione terapeutica, con particolare carenza di risorse nelle regioni centro-meridionali.[15]
+
+**Tempistiche diagnostiche**: Molte anomalie fetali vengono diagnosticate dopo le 20 settimane — quando la RM fetale è più informativa — ben oltre il limite delle 12+6 settimane per l'IVG su richiesta. Questo crea una sfida clinica rilevante per la gestione delle anomalie diagnosticate tardivamente.
+
+### Caso giuridico rilevante
+
+Una sentenza della Corte di Cassazione italiana del 2021 ha stabilito un precedente significativo: un medico è stato condannato al risarcimento danni per non aver informato correttamente una paziente alla 22ª settimana sui rischi di infezione da citomegalovirus (CMV) per il feto. L'opzione dell'interruzione non fu proposta in assenza di malformazioni evidenti né di grave rischio per la vita materna, come richiesto dalla legge. Il neonato presentò gravi lesioni cerebrali. Questa sentenza potrebbe estendere i requisiti informativi per le interruzioni tardive, includendo situazioni di grave rischio fetale anche in assenza di malformazioni strutturali al momento della richiesta.[18]
+
+### Confronto internazionale
+
+Per contesto, altri paesi europei adottano approcci differenti:[16]
+
+- **Francia**: Nessun limite gestazionale per condizioni fetali gravi incurabili
+- **Paesi Bassi**: Possibile dopo 24 settimane per condizioni che comportano morte neonatale precoce o gravi deficit irreparabili
+- **Belgio**: Nessun limite gestazionale; dopo 14 settimane l'anomalia deve determinare un handicap sostanziale, valutato da un panel multidisciplinare
+- **Germania**: Tecnicamente possibile fino al termine, ma molti centri non eseguono interruzioni dopo 24 settimane
+
+L'Italia si colloca tra i paesi che consentono l'interruzione per gravi anomalie fetali senza un limite gestazionale rigido, ma con requisiti di gravità e con l'obbligo di salvaguardare la vita fetale quando tecnicamente possibile oltre la soglia di viabilità.[14]
+
+### Implicazione clinica per la RM fetale
+
+La RM fetale è più informativa dopo le 20 settimane, ben oltre il limite delle 12+6 settimane per l'IVG su richiesta. Per le anomalie gravi diagnosticate dopo questo periodo, l'interruzione richiede la certificazione di gravi anomalie fetali secondo i criteri della Legge 194/1978 e il coinvolgimento di un team multidisciplinare.
+
 ## Riferimenti
 
 1. Committee Opinion No. 723: Guidelines for Diagnostic Imaging During Pregnancy and Lactation. Committee on Obstetric Practice. *Obstetrics and Gynecology*. 2017;130(4):e210-e216. doi:10.1097/AOG.0000000000002355.
@@ -103,3 +190,8 @@ In gravidanze a basso rischio con ecografia normale, il valore predittivo negati
 11. Expert Panel on GYN and OB Imaging, Sussman BL, Chopra P, et al. ACR Appropriateness Criteria® Second and Third Trimester Screening for Fetal Anomaly. *Journal of the American College of Radiology*. 2021;18(5S):S189-S198. doi:10.1016/j.jacr.2021.02.017.
 12. Powers AM, White C, Neuberger I, et al. Fetal MRI Neuroradiology: Indications. *Clinics in Perinatology*. 2022;49(3):573-586. doi:10.1016/j.clp.2022.05.001.
 13. Griffiths PD, Bradburn M, Mandefield L, Mooney C, Jarvis D. The Rate of Brain Abnormalities on in Utero MRI Studies in Fetuses With Normal Ultrasound Examinations of the Brain and Calculation of Indicators of Diagnostic Performance. *Clinical Radiology*. 2019;74(7):527-533. doi:10.1016/j.crad.2019.03.010.
+14. Legge 22 maggio 1978, n. 194. *Norme per la tutela sociale della maternità e sull'interruzione volontaria della gravidanza.* Gazzetta Ufficiale della Repubblica Italiana n. 140, 22 maggio 1978. Disponibile su: https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;194
+15. Clerici G, Donti E, Zacutti A, Di Renzo GC. Prenatal Diagnosis in Italy. *European Journal of Human Genetics*. 1997;5 Suppl 1:42-7.
+16. Bronsgeest K, Lust EER, Henneman L, et al. Current Practice of First-Trimester Ultrasound Screening for Structural Fetal Anomalies in Developed Countries. *Prenatal Diagnosis*. 2023;43(7):873-880. doi:10.1002/pd.6389.
+17. Caruso E. The Hyper-Regulation of Abortion Care in Italy. *International Journal of Gynaecology and Obstetrics*. 2023;163(3):1036-1042. doi:10.1002/ijgo.15150.
+18. Gulino M, Miele MT, Marcuccilli F, Cammarano A, Montanari Vergallo G. Late Termination of Pregnancy in Case of Congenital CMV Infection: Ethics, Medicine and Law. *The Journal of Maternal-Fetal & Neonatal Medicine*. 2022;35(25):9786-9791. doi:10.1080/14767058.2022.2053104.
